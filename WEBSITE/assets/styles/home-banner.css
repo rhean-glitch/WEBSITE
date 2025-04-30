@@ -1,0 +1,21 @@
+#home-banner {
+    background-color: rgb(197, 223, 234);
+    display: flex;
+    padding: 72px 20px;
+    gap: 32px;
+}
+
+.home-content {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.home-image {
+    box-sizing: border-box;
+}
+
+.home-image img {
+    height: 400px;
+    border-radius: 20px;
+}

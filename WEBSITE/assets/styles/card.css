@@ -1,0 +1,11 @@
+.card {
+    background: grey;
+}
+
+.card-header img {
+    object-fit: cover;
+    width: 100%;
+}
+.card-header h2 {
+    padding: 14px 18px;
+}

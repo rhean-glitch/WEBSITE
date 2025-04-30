@@ -1,0 +1,38 @@
+#header {
+    background: rgb(32, 36, 104);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 20px;
+}
+.nav-links {
+    display: flex;
+    gap: 24px;
+}
+
+.nav-links li {
+    list-style: none;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.menu-toggle {
+    display: none;
+}
+
+.menu-btn {
+    display: none;
+}
+
+.logo img {
+    width: 96px;
+    margin-left: 32px;
+}
+  
+ 
